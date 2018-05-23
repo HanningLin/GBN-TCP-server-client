@@ -1,4 +1,4 @@
-# CSCI4211-Programming Assignment 2
+# GBN-TCP-server-client
 
 - date: 03/18/18
 - name: Hanning Lin 
