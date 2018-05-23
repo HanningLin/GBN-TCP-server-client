@@ -1,9 +1,9 @@
-#CSCI4211-Programming Assignment 2
+# CSCI4211-Programming Assignment 2
 
 - date: 03/18/18
 - name: Hanning Lin 
 
-##Compilation script
+## Compilation script
 ### network layer:
    - python3 netWorkLayer.py <port> <maxNoPackets> <delay> <probMangle>
    - e.p.:python3 networkLayer.py 5002 10 0.1 1 20
